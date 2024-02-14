@@ -1,5 +1,5 @@
 # UnstableDiffusion
-# Numerical Anslysis of Diffusion using mean valye of temperature at nodes having coincinging Boundary Conditons 
+# Numerical Anslysis of Diffusion using mean value of temperature at nodes having coinciding Boundary Conditons 
 
 # Heat Diffusion Simulation
 
